@@ -9,6 +9,10 @@
       
         <span data-view-component="true" class="ActionListItem-label">
           Security
+       </span>
+      
+        <span data-view-component="true" class="ActionListItem-label">
+          Security
 </span>      
 </a>
   
