@@ -8,11 +8,7 @@
           Security
        </span>
     
-        <span data-view-component="true" class="ActionListItem-label">
-          Security
-       </span>
-      
-
+        
   
 </li>
         <li hidden="hidden" data-menu-item="i7insights-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
