@@ -9,9 +9,7 @@
        </span>
     
         
-  
-</li>
-        <li hidden="hidden" data-menu-item="i7insights-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+hidden="hidden" data-menu-item="i7insights-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
   
     <a tabindex="-1" id="item-d77b2d44-7365-4712-85cd-55a9a9967dbe" href="/hosseinpak/gbi/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
