@@ -14,10 +14,6 @@
         </span>
       
 
-  
-</li>
-        <li hidden="hidden" data-menu-item="i8settings-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
-    
     
     <a tabindex="-1" id="item-c5f52279-d0c2-4435-a9cd-644d4b24d076" href="/hosseinpak/gbi/settings" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
