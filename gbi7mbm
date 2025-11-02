@@ -33,6 +33,19 @@
   <div hidden data-initial data-target="notification-shelf-watcher.placeholder"></div>
 
 
+    </div>
+  </div>
+</div>
+  </template>
+</div>
+
+
+    
+  <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTg0ODI2MzA4IiwidCI6MTc0MTExODQyMn0=--b5e478d25ba6c08a11aae6513dc8f6e27a177b61ca511eb97457c8fcb5f20a6b" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
+  <div hidden data-initial data-target="notification-shelf-watcher.placeholder"></div>
+
+
+
 
 
 
